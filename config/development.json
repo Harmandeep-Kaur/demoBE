@@ -1,0 +1,10 @@
+{
+    "site": {
+        "name": "Node Test",
+        "secret": "secret",
+        "url": "https://nodetest.com"
+    },
+    "db": {
+        "connection_string": "mongodb://localhost:27017/nodeprofile"
+    }
+}
